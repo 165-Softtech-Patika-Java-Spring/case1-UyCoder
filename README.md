@@ -20,3 +20,5 @@ dönen metotları yazınız. (getEvList, getVillaList vs).
 2. Nesneye yönelik programlamaya uygun tasarım yapınız.
 3. Clean code prensiplerine uyunuz.
 4. Main metot içinde tüm metotları konsola anlamlı şekilde yazdırınız. 
+
+
