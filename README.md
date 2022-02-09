@@ -21,4 +21,4 @@ dönen metotları yazınız. (getEvList, getVillaList vs).
 3. Clean code prensiplerine uyunuz.
 4. Main metot içinde tüm metotları konsola anlamlı şekilde yazdırınız. 
 
-
+## selam
