@@ -21,4 +21,8 @@ dönen metotları yazınız. (getEvList, getVillaList vs).
 3. Clean code prensiplerine uyunuz.
 4. Main metot içinde tüm metotları konsola anlamlı şekilde yazdırınız. 
 
-## selam
+# Ödev şu şekilde tamamlandı:
+1. ödev için oluşturualan tum class'lar "house" adındaki package içerisine yerleştirildi.
+2. House adındaki class'tan sonra 'types' package içerisine Ev, Villa ve Yazlık adındaki class'lar oluşturuldu.
+3. HouseForSale adındaki class içerisinde tüm object bilğileri set edildi, çağıralacak olan metodlar da bu class içerisinde yazıldı.
+4. Service class oluşturulup tüm metodlar içerisine yazıldı.
