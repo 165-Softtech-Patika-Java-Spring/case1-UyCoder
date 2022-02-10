@@ -16,10 +16,16 @@ public class House {
     private BigDecimal metrakareNet;
     private String binaYili;
     private Long fiyati;
+    private Long odaSayisi;
 
 
     // genereta getter and setter method
-
+    public Long getOdaSayisi() {
+        return odaSayisi;
+    }
+    public void setOdaSayisi(Long odaSayisi) {
+        this.odaSayisi = odaSayisi;
+    }
     public Integer getHouseId() {
         return HouseId;
     }

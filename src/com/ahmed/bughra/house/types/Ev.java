@@ -8,17 +8,11 @@ import com.ahmed.bughra.house.House;
  * @CreatedWith: IntelliJ IDEA
  */
 public class Ev extends House {
-    private Long odaSayisi;
+
     private Integer bulunduguKat;
     private Boolean gunesliMi;
 
     // generate getter and setter method
-    public Long getOdaSayisi() {
-        return odaSayisi;
-    }
-    public void setOdaSayisi(Long odaSayisi) {
-        this.odaSayisi = odaSayisi;
-    }
     public Integer getBulunduguKat() {
         return bulunduguKat;
     }
