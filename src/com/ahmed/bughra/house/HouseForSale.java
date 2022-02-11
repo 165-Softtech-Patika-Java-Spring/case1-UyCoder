@@ -89,7 +89,7 @@ public class HouseForSale {
         yazlik3.setSalonSayisi(3L);
         yazlik3.setMetrakareNet(BigDecimal.valueOf(330));
 
-    // Service class daki metodlar
+    // Service class dan çağırılan metodlar
         getEvFiyatlari(ev1.getFiyati(), ev2.getFiyati(), ev3.getFiyati());
         getVillaFiyatlari(villa1.getFiyati(),villa2.getFiyati(),villa3.getFiyati());
         getYazlikFiyatlari(yazlik1.getFiyati(), yazlik2.getFiyati(),yazlik3.getFiyati());
