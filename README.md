@@ -1,5 +1,12 @@
 # Case1
 
+## Ödev şu şekilde tamamlandı:
+1. ödev için oluşturualan tum class'lar "house" adındaki package içerisine yerleştirildi.
+2. House adındaki class'tan sonra 'types' package içerisine Ev, Villa ve Yazlık adındaki class'lar oluşturuldu.
+3. HouseForSale adındaki class içerisinde tüm object bilğileri set edildi, çağıralacak olan metodlar da bu class içerisinde yazıldı.
+4. Service class oluşturulup tüm metodlar içerisine yazıldı.
+
+## Ödev talebleri:
 1. Ev, Villa, Yazlık tipinde 3 adet ev tipi oluşturunuz.
 2. Bir class içerisinde en az 3er tane Ev, Villa ve Yazlık nesnelerinden oluşturun ve bu örnekleri size
 dönen metotları yazınız. (getEvList, getVillaList vs).
@@ -21,8 +28,3 @@ dönen metotları yazınız. (getEvList, getVillaList vs).
 3. Clean code prensiplerine uyunuz.
 4. Main metot içinde tüm metotları konsola anlamlı şekilde yazdırınız. 
 
-# Ödev şu şekilde tamamlandı:
-1. ödev için oluşturualan tum class'lar "house" adındaki package içerisine yerleştirildi.
-2. House adındaki class'tan sonra 'types' package içerisine Ev, Villa ve Yazlık adındaki class'lar oluşturuldu.
-3. HouseForSale adındaki class içerisinde tüm object bilğileri set edildi, çağıralacak olan metodlar da bu class içerisinde yazıldı.
-4. Service class oluşturulup tüm metodlar içerisine yazıldı.
